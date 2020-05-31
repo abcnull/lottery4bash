@@ -1,6 +1,6 @@
 [toc]
 
-**[中文](https://github.com/abcnull/webuitest4j/blob/master/README_en.md) | [Blog](https://blog.csdn.net/abcnull/article/details/104119940)**
+**[中文](https://github.com/abcnull/webuitest4j/blob/master/README_en.md) | [Blog](https://blog.csdn.net/abcnull/article/details/106433145)**
 
 # Lottery4bash Brief
 
