@@ -33,6 +33,12 @@ lottery4bash
 less [filename] | ./lucky.sh [num]
 ```
 
+**eg: draw 2 members from members.txt**
+
+```bash
+less members.txt | ./lucky.sh 2
+```
+
 **lottery by directly reading output**
 
 ![lottery by directly reading output](https://github.com/abcnull/Image-Resources/blob/master/lottery4bash/%E6%89%B9%E6%B3%A8%202020-05-31%20185124.png)
