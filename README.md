@@ -33,6 +33,12 @@ lottery4bash
 less [filename] | ./lucky.sh [num]
 ```
 
+**例如从 members.txt 中抽出两个人**
+
+```bash
+less members.txt | ./lucky.sh 2
+```
+
 **直接读取人员名单来抽奖**
 
 ![直接读取人员名单来抽奖](https://github.com/abcnull/Image-Resources/blob/master/lottery4bash/%E6%89%B9%E6%B3%A8%202020-05-31%20185124.png)
